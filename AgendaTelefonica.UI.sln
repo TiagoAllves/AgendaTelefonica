@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{477851
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgendaTelefonica.Domain", "AgendaTelefonica.Domain\AgendaTelefonica.Domain.csproj", "{43740A65-D50C-46CC-92D1-BD5EFB160072}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgendaTelefonica.Controller", "AgendaTelefonica.Controller\AgendaTelefonica.Controller.csproj", "{4987C806-7896-41D5-8792-07DBB0658C45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,10 @@ Global
 		{43740A65-D50C-46CC-92D1-BD5EFB160072}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43740A65-D50C-46CC-92D1-BD5EFB160072}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43740A65-D50C-46CC-92D1-BD5EFB160072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4987C806-7896-41D5-8792-07DBB0658C45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4987C806-7896-41D5-8792-07DBB0658C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4987C806-7896-41D5-8792-07DBB0658C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4987C806-7896-41D5-8792-07DBB0658C45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
