@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{477851
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgendaTelefonica.Domain", "AgendaTelefonica.Domain\AgendaTelefonica.Domain.csproj", "{43740A65-D50C-46CC-92D1-BD5EFB160072}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{4597525F-F5F9-4270-87F2-9C6356BEC43C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4597525F-F5F9-4270-87F2-9C6356BEC43C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4597525F-F5F9-4270-87F2-9C6356BEC43C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43740A65-D50C-46CC-92D1-BD5EFB160072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43740A65-D50C-46CC-92D1-BD5EFB160072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43740A65-D50C-46CC-92D1-BD5EFB160072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43740A65-D50C-46CC-92D1-BD5EFB160072}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
