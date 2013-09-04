@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgendaTelefonica.Domain", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgendaTelefonica.Controller", "AgendaTelefonica.Controller\AgendaTelefonica.Controller.csproj", "{4987C806-7896-41D5-8792-07DBB0658C45}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgendaTelefonica.Test", "AgendaTelefonica.Test\AgendaTelefonica.Test.csproj", "{6B0A0B19-C895-4185-8DF5-0074CF83A1CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,10 @@ Global
 		{4987C806-7896-41D5-8792-07DBB0658C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4987C806-7896-41D5-8792-07DBB0658C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4987C806-7896-41D5-8792-07DBB0658C45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B0A0B19-C895-4185-8DF5-0074CF83A1CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B0A0B19-C895-4185-8DF5-0074CF83A1CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B0A0B19-C895-4185-8DF5-0074CF83A1CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B0A0B19-C895-4185-8DF5-0074CF83A1CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
