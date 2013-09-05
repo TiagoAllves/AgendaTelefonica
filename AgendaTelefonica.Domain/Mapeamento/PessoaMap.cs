@@ -12,6 +12,7 @@ namespace AgendaTelefonica.Domain.Mapeamento
             Map(p => p.Idade);
             Map(p => p.Telefone);
             Map(p => p.Cpf);
+            References(p => p.Endereco);
         }
     }
 }

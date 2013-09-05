@@ -4,12 +4,12 @@ namespace AgendaTelefonica.Domain.Entidades
 {
     public class Endereco : IRaizDeAgregacao<int>
     {
-        public int Id { get; set; }
-        public string Rua { get; set; }
-        public int Numero { get; set; }
-        public string Bairro { get; set; }
-        public string Cidade { get; set; }
-        public string Estado { get; set; }
-        public string Pais { get; set; }
+        public virtual int Id { get; set; }
+        public virtual string Rua { get; set; }
+        public virtual int Numero { get; set; }
+        public virtual string Bairro { get; set; }
+        public virtual string Cidade { get; set; }
+        public virtual string Estado { get; set; }
+        public virtual string Pais { get; set; }
     }
 }
